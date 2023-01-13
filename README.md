@@ -16,6 +16,8 @@
 <p> Me gusta el desarrollo web especialmente del lado del backend aunque me siento cómodo codeando en ambos lados de un proyecto! 
 Me gusta aprender cosas nuevas y esa fué la razón por la que empecé esta hermosa y desafiente carrera... Soy organizado y me gusta un código limpio y ordenado! Me gusta aprovechar la experiencia de mis compañeros y aprender y enseñar. </p>
 
+![](https://visitor-badge.glitch.me/badge?page_id=LeonardoMontilla74.LeonardoMontilla74)
+
 ### 💻 Lenguajes
 <p>
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
@@ -46,12 +48,15 @@ Me gusta aprender cosas nuevas y esa fué la razón por la que empecé esta herm
     <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white">
 </p>
 
-## Mi actividad reciente en GitHub
 
-![](https://visitor-badge.glitch.me/badge?page_id=LeonardoMontilla74.LeonardoMontilla74)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonardomontilla74&show_icons=true&locale=en&layout=compact&theme=gotham" alt="leonardomontilla74" /></p>
+
+
+<!-- ## Mi actividad reciente en GitHub
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=leonardomontilla74&theme=gotham" alt="leonardomontilla74" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=leonardomontilla74&show_icons=true&theme=gotham" alt="leonardomontilla74" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=leonardomontilla74&theme=gotham" alt="leonardomontilla74" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonardomontilla74&show_icons=true&locale=en&layout=compact&theme=gotham" alt="leonardomontilla74" /></p>
+
+<p><img align="center" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=LeonardoMontilla74&theme=gotham" alt="LeonardoMontilla74's Activity Graph" /></p> -->
