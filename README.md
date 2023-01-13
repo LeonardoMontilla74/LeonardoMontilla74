@@ -55,5 +55,3 @@ Me gusta aprender cosas nuevas y esa fué la razón por la que empecé esta herm
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=leonardomontilla74&show_icons=true&theme=gotham" alt="leonardomontilla74" /></p>
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=leonardomontilla74&theme=gotham" alt="leonardomontilla74" /></p>
-
-<p><img align="center" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=LeonardoMontilla74&theme=gotham" alt="LeonardoMontilla74's Activity Graph" /></p>
